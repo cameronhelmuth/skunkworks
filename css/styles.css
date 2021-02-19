@@ -18,4 +18,9 @@ h1 {
 
 h3 {
     color: ghostwhite;
+    text-align: center;
+}
+
+image {
+    background-color: darkolivegreen;
 }
